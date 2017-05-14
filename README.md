@@ -1,1 +1,1 @@
-# haat-repo
+# config-repo
